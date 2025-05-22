@@ -1,5 +1,5 @@
 package com.dkelly205.tickets.enums;
 
-public enum TicketValidation {
+public enum TicketValidationStatus {
     VALID, INVALID, EXPIRED
 }
